@@ -1,0 +1,11 @@
+chrome.cloudflare-dns.com
+mozilla.cloudflare-dns.com
+doh.opendns.com
+doh.dns.sb
+185.222.222.222
+185.184.222.222
+2a09::
+2a09::1
+2a07:a8c0::89:ec71
+2a07:a8c1::89:ec71
+dns.nextdns.io
